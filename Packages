@@ -1,0 +1,18 @@
+Package: catalyst
+Version: 3.3.1
+Architecture: amd64
+Maintainer: JaydenDev
+Installed-Size: 227722
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./catalyst-stable_3.3.1_amd64.deb
+Size: 67896344
+MD5sum: e345ec6fdfd2f3dedc932344ac0d8d16
+SHA1: a2d2ddb100bd9016605b0100499fc92d63c90dd1
+SHA256: 5b12836fd6c7529ef72b9b52cc968cd046ef9c0f9608bed923efe20858c191b4
+Section: utils
+Priority: optional
+Description: A minimal Electron Web Browser
+ A minimal Electron Web Browser
+

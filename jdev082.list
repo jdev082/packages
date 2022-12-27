@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/jdev082.gpg] https://packages.jdev.eu.org/ubuntu ./
